@@ -68,7 +68,7 @@ def paintcanvasblack(src):
   #if the variable is equal to 1 paint the canvas black then load image from file and paint to canvas
   #if the variable is equal to 2 paint the canvas black then load image from file and paint to canvas
   #if the variable is equal to 3 paint the canvas black then load image from file and paint to canvas
-  #if the variable is equal to 4 number paint the canvas black then load image from file and paint to canvas
+  #if the variable is equal to 4 paint the canvas black then load image from file and paint to canvas
   keypress2 = requestNumber("Press 1-4 for ship images: ")
   if keypress2 == 1:
   
@@ -250,14 +250,13 @@ def EnlargeImageBottomSection():
   for x in range(0,w):
     for y in range(0,h/3):
       px = getPixel(pic2,x,y)
-      r = getRed(px)
-      setRed(px,r*2)
+      r = getGreen(px)
+      setGreen(px,r/2)
     for y in range(h/2,h):
       px = getPixel(pic2,x,y)
-      r = getRed(px)
-      setRed(px,r/2)
+      r = getGreen(px)
+      setGreen(px,r/2)
       
-    #repaint(pic2)
+    pic2 = canvas2
     repaint(canvas2)
-    
 
