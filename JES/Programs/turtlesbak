@@ -1,0 +1,38 @@
+def setupWorld():
+  w = makeWorld(800,600)
+  t = makeTurtle(w)
+  number = 10
+  
+  
+  for y in range(0,10):
+    turn(t, 33)
+    forward(t,33)
+    turn(t,33)
+    forward(t,33)
+      
+      
+    for x in range(0,10):
+      forward(t,33)
+      turn(t,33)
+      forward(t,33)
+      
+    
+      for z in range(0,10):
+        forward(t,33)
+        turn(t,33)
+        forward(t,33)
+        turn(t,33)
+
+
+
+
+
+def test():
+  w = makeWorld()
+  t = makeTurtle(w)
+  for x in range(0,4):
+    forward(t)
+    turn(t,90)
+    forward(t)
+    turn(t,275)
+    

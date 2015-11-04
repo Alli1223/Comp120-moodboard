@@ -1,0 +1,159 @@
+def start():
+  #load image from file
+  canvasimage=makePicture("C:\Users\Alastair\Desktop\JES\images\ship+biodomes.jpg")
+  show(canvasimage)
+  #get input from user
+  keypress = requestNumber("Press 1 for biodome or 2 for ship: ")
+  
+  if keypress == 1:
+    EnlargeImageTopSection()
+  elif keypress == 2:
+    EnlargeImageBottomSection()
+
+
+def EnlargeImageTopSection():
+  #get the image and then make an empty image 
+  file=pickAFile()
+  canvas = makeEmptyPicture(2652,1396)
+  canvas2 = makeEmptyPicture(2652,1396)
+  src=makePicture(file)
+  
+  #Display the image in the empty image
+  canvas = src
+  show(canvas)
+  
+  
+  #get pixels at source X
+  #paste horizontal pixels from pixel 100 to pixel 2000
+  #get pixels at source Y
+  #paste vertical pixels from pixel 100 to pixel 1000
+  #scale up by 60%
+  
+  sourceX = 782
+  for targetX in range(100,2000):
+    sourceY = 292
+    for targetY in range(100,1000):
+      srcpx = getPixel(src,int(sourceX),int(sourceY))
+      color = getColor(srcpx)
+      setColor(getPixel(canvas2,targetX,targetY), color)
+      sourceY = sourceY + 0.6
+    sourceX = sourceX + 0.6
+  
+  repaint(canvas2)
+  return canvas
+
+def EnlargeImageBottomSection():
+  #get the image and then make an empty image 
+  file=("F:\Comp120\JES\Ship-image-structure\ship+biodomes.jpg")
+  canvas = makeEmptyPicture(2652,1396)
+  canvas2 = makeEmptyPicture(2652,1396)
+  src=makePicture(file)
+  
+  #Display the image in the empty image
+  canvas = src
+  show(canvas)
+  #explore(canvas)
+  
+  #get pixels at source X
+  sourceX = 160
+  #paste horizontal pixels from pixel 500 to pixel 2000
+  for targetX in range(100,2000):
+    #get pixels at source Y
+    sourceY = 600
+    #paste vertical pixels from pixel 500 to pixel 2000
+    for targetY in range(100,1000):
+      srcpx = getPixel(src,int(sourceX),int(sourceY))
+      color = getColor(srcpx)
+      setColor(getPixel(canvas2,targetX,targetY), color)
+      sourceY = sourceY + 0.6
+    sourceX = sourceX + 0.6
+  repaint(canvas2)
+  
+  #picoverlay1()
+  
+  pixels = getPixels(canvas2)
+  for i in range(0*(len(pixels)/4),len(pixels)):
+    px = pixels[i]
+    setColor(px,black)
+  repaint(canvas2)
+  
+  pic2=makePicture(pickAFile())
+  for pixel in pic2.getPixels():
+    x = getX(pixel)
+    y = getY(pixel)
+    color = getColor(pixel)
+    target = getPixelAt(canvas2, x, y)
+    setColor(target, color)
+  repaint(canvas2)
+  
+  keypress2 = requestNumber("Press 1-4 for ship images: ")
+  
+  if keypress2 == 1:
+  
+    pixels = getPixels(canvas2)
+    for i in range(0*(len(pixels)/4),len(pixels)):
+      px = pixels[i]
+      setColor(px,black)
+    repaint(canvas2)
+  
+    pic2=makePicture(pickAFile())
+    for pixel in pic2.getPixels():
+      x = getX(pixel)
+      y = getY(pixel)
+      color = getColor(pixel)
+      target = getPixelAt(canvas2, x, y)
+      setColor(target, color)
+    repaint(canvas2)
+  
+  
+  elif keypress2 == 2:
+  
+    pixels = getPixels(canvas2)
+    for i in range(0*(len(pixels)/4),len(pixels)):
+      px = pixels[i]
+      setColor(px,black)
+    repaint(canvas2)
+  
+    pic2=makePicture(pickAFile())
+    for pixel in pic2.getPixels():
+      x = getX(pixel)
+      y = getY(pixel)
+      color = getColor(pixel)
+      target = getPixelAt(canvas2, x, y)
+      setColor(target, color)
+    repaint(canvas2)
+  
+  else:
+  
+    pixels = getPixels(canvas2)
+    for i in range(0*(len(pixels)/4),len(pixels)):
+      px = pixels[i]
+      setColor(px,black)
+    repaint(canvas2)
+  
+    pic2=makePicture(pickAFile())
+    for pixel in pic2.getPixels():
+      x = getX(pixel)
+      y = getY(pixel)
+      color = getColor(pixel)
+      target = getPixelAt(canvas2, x, y)
+      setColor(target, color)
+    repaint(canvas2)
+    
+  
+  
+
+def picoverlay1():
+ canvas2=makePicture(pickAFile())
+ pic2=makePicture(pickAFile())
+ overlay(pic2,canvas2)
+ 
+
+def overlay(pic2,canvas2):
+ for pixel in pic2.getPixels():
+  x = getX(pixel)
+  y = getY(pixel)
+  color = getColor(pixel)
+  target = getPixelAt(canvas2, x, y)
+  setColor(target, color)
+ return canvas2

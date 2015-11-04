@@ -1,0 +1,9 @@
+def moodboard():
+
+  spaceship = 0
+  picture = makePicture(pickAFile())
+  show(picture)
+  spaceship = input("enter 1 or 0: ")
+  if spaceship >= 1:
+    picture = makePicture(pickAFile())
+    show(picture)

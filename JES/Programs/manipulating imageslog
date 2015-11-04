@@ -1,0 +1,1449 @@
+<file_created time="Fri Oct 02 14:40:44 BST 2015">
+<menu_button time="Fri Oct 02 14:44:08 BST 2015">Options</menu_button>
+<menu_button time="Fri Oct 02 14:45:15 BST 2015">Program Area + Interactions Area + Help</menu_button>
+<menu_button time="Fri Oct 02 14:45:31 BST 2015">Explain <click></menu_button>
+<menu_button time="Fri Oct 02 14:45:32 BST 2015">Explain <click></menu_button>
+<menu_button time="Fri Oct 02 15:32:03 BST 2015">Load Program</menu_button>
+<menu_button time="Fri Oct 02 15:32:25 BST 2015">Watcher</menu_button>
+<menu_button time="Fri Oct 02 15:32:29 BST 2015">Watcher</menu_button>
+<menu_button time="Fri Oct 02 15:32:34 BST 2015">Program Area + Interactions Area + Help</menu_button>
+<menu_button time="Fri Oct 02 15:33:10 BST 2015">Load Program</menu_button>
+<menu_button time="Fri Oct 02 15:35:03 BST 2015">Explain <click></menu_button>
+<menu_button time="Fri Oct 02 15:35:10 BST 2015">Explain requestNumber</menu_button>
+<menu_button time="Fri Oct 02 15:45:59 BST 2015">Explain <click></menu_button>
+<menu_button time="Fri Oct 02 15:46:04 BST 2015">Explain <click></menu_button>
+<menu_button time="Fri Oct 02 15:46:14 BST 2015">Explain <click></menu_button>
+<menu_button time="Fri Oct 02 15:46:32 BST 2015">Load Program</menu_button>
+<command_run time="Fri Oct 02 15:46:44 BST 2015">variable 1 = 1></command_run>
+<command_run time="Fri Oct 02 15:46:56 BST 2015">variable1 = 1></command_run>
+<command_run time="Fri Oct 02 15:47:14 BST 2015">print variable1></command_run>
+<command_run time="Fri Oct 02 15:47:47 BST 2015">variable2 = 2></command_run>
+<command_run time="Fri Oct 02 15:48:05 BST 2015">print variable1 + variable2></command_run>
+<command_run time="Fri Oct 02 15:49:51 BST 2015">variable3 = "Hello"></command_run>
+<command_run time="Fri Oct 02 15:50:06 BST 2015">print variable1 + variable2 variable3></command_run>
+<command_run time="Fri Oct 02 15:50:22 BST 2015">print variable1 + variable2></command_run>
+<command_run time="Fri Oct 02 15:50:32 BST 2015">print variable3></command_run>
+<command_run time="Fri Oct 02 15:58:03 BST 2015">print variable1 + variable2></command_run>
+<command_run time="Fri Oct 02 15:58:18 BST 2015">print variable1 + variable2, variable3></command_run>
+<command_run time="Fri Oct 02 15:58:28 BST 2015">print variable1 + variable2, variable3  * 4></command_run>
+<command_run time="Fri Oct 02 15:58:30 BST 2015">print variable1 + variable2, variable3  * 40></command_run>
+<command_run time="Fri Oct 02 15:58:38 BST 2015">print variable1 + variable2, variable3 ></command_run>
+<command_run time="Fri Oct 02 16:00:12 BST 2015">pickAFile(C:\Users\Public\Pictures\Sample Pictures\Koala.jpg)></command_run>
+<command_run time="Fri Oct 02 16:00:21 BST 2015">pickAFile (C:\Users\Public\Pictures\Sample Pictures\Koala.jpg)></command_run>
+<menu_button time="Fri Oct 02 16:00:32 BST 2015">Explain <click></menu_button>
+<menu_button time="Fri Oct 02 16:00:35 BST 2015">Explain <click></menu_button>
+<menu_button time="Fri Oct 02 16:00:42 BST 2015">Explain pickAFile</menu_button>
+<command_run time="Fri Oct 02 16:02:00 BST 2015">pickAFile></command_run>
+<command_run time="Fri Oct 02 16:02:09 BST 2015">pickAFile()></command_run>
+<command_run time="Fri Oct 02 16:05:30 BST 2015">picture = pickAFile></command_run>
+<command_run time="Fri Oct 02 16:05:45 BST 2015">show()></command_run>
+<command_run time="Fri Oct 02 16:05:55 BST 2015">show(picture)></command_run>
+<command_run time="Fri Oct 02 16:06:24 BST 2015">show(pickAFile)></command_run>
+<command_run time="Fri Oct 02 16:06:42 BST 2015">print picture></command_run>
+<command_run time="Fri Oct 02 16:07:18 BST 2015">pickAFile()></command_run>
+<command_run time="Fri Oct 02 16:08:09 BST 2015">picture = pickAFile></command_run>
+<command_run time="Fri Oct 02 16:08:52 BST 2015">return picture(picture)></command_run>
+<command_run time="Fri Oct 02 16:09:00 BST 2015">return picture()></command_run>
+<command_run time="Fri Oct 02 16:09:19 BST 2015">return pickAFile(file)></command_run>
+<command_run time="Fri Oct 02 16:09:22 BST 2015">return pickAFile()></command_run>
+<command_run time="Fri Oct 02 16:09:23 BST 2015">return pickAFile></command_run>
+<command_run time="Fri Oct 02 16:09:36 BST 2015">pickAFile()></command_run>
+<command_run time="Fri Oct 02 16:11:22 BST 2015">picture = pickAFile()></command_run>
+<command_run time="Fri Oct 02 16:11:35 BST 2015">return picture></command_run>
+<menu_button time="Fri Oct 02 16:11:59 BST 2015">Explain <click></menu_button>
+<menu_button time="Fri Oct 02 16:12:12 BST 2015">Explain pickAFile</menu_button>
+<command_run time="Fri Oct 02 16:13:01 BST 2015">def pickAFile()></command_run>
+<command_run time="Fri Oct 02 16:13:06 BST 2015">pickAFile()></command_run>
+<menu_button time="Fri Oct 02 16:15:18 BST 2015">Load Program</menu_button>
+<menu_button time="Fri Oct 02 16:16:08 BST 2015">Load Program</menu_button>
+<command_run time="Fri Oct 02 16:16:45 BST 2015">pic()></command_run>
+<command_run time="Fri Oct 02 16:17:05 BST 2015">pic()></command_run>
+<menu_button time="Fri Oct 02 16:18:55 BST 2015">Load Program</menu_button>
+<file_saved time="Fri Oct 02 16:19:08 BST 2015">X:\JES\test</file_saved>
+</file_created>
+<command_run time="Fri Oct 02 16:19:12 BST 2015">pic()></command_run>
+<menu_button time="Fri Oct 02 16:25:16 BST 2015">Load Program</menu_button>
+<file_saved time="Fri Oct 02 16:25:17 BST 2015">X:\JES\test</file_saved>
+</file_created>
+<command_run time="Fri Oct 02 16:25:21 BST 2015">sound()></command_run>
+<command_run time="Fri Oct 02 16:26:44 BST 2015">sound()></command_run>
+<command_run time="Fri Oct 02 16:27:01 BST 2015">sound()></command_run>
+<menu_button time="Fri Oct 02 16:27:59 BST 2015">Load Program</menu_button>
+<file_saved time="Fri Oct 02 16:27:59 BST 2015">X:\JES\test</file_saved>
+<file_opened time="Mon Oct 12 14:31:33 BST 2015">X:\JES\test</file_opened>
+<menu_button time="Mon Oct 12 14:31:46 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 14:31:47 BST 2015">X:\JES\test</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 14:31:53 BST 2015">pic()></command_run>
+<menu_button time="Mon Oct 12 14:32:34 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 14:32:35 BST 2015">X:\JES\test</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 14:32:37 BST 2015">pic()></command_run>
+<menu_button time="Mon Oct 12 14:36:02 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 14:36:03 BST 2015">X:\JES\test</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 14:36:04 BST 2015">pic()></command_run>
+<menu_button time="Mon Oct 12 14:36:23 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 14:36:24 BST 2015">X:\JES\test</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 14:36:30 BST 2015">pic()></command_run>
+<menu_button time="Mon Oct 12 14:38:54 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 14:38:55 BST 2015">X:\JES\test</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 14:38:59 BST 2015">mypic()></command_run>
+<menu_button time="Mon Oct 12 14:39:19 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 14:39:20 BST 2015">X:\JES\test</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 14:39:21 BST 2015">mypic()></command_run>
+<menu_button time="Mon Oct 12 14:40:41 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 14:40:42 BST 2015">X:\JES\test</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 14:40:46 BST 2015">picedit()></command_run>
+<menu_button time="Mon Oct 12 14:42:52 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 14:42:53 BST 2015">X:\JES\test</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 14:42:58 BST 2015">picedit()></command_run>
+<menu_button time="Mon Oct 12 14:44:16 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 14:44:17 BST 2015">X:\JES\test</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 14:44:18 BST 2015">picedit()></command_run>
+<menu_button time="Mon Oct 12 14:45:10 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 14:45:11 BST 2015">X:\JES\test</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 14:45:12 BST 2015">picedit()></command_run>
+<command_run time="Mon Oct 12 14:45:23 BST 2015">piccolor()></command_run>
+<menu_button time="Mon Oct 12 14:47:01 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 14:47:02 BST 2015">X:\JES\test</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 14:47:09 BST 2015">mypic()></command_run>
+<menu_button time="Mon Oct 12 14:47:24 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 14:47:25 BST 2015">X:\JES\test</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 14:47:27 BST 2015">mypic3()></command_run>
+<menu_button time="Mon Oct 12 14:48:33 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 14:48:34 BST 2015">X:\JES\test</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 14:48:36 BST 2015">mypic3()></command_run>
+<menu_button time="Mon Oct 12 14:49:04 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 14:49:05 BST 2015">X:\JES\test</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 14:49:07 BST 2015">mypic3()></command_run>
+<menu_button time="Mon Oct 12 14:49:13 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 14:49:14 BST 2015">X:\JES\test</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 14:49:14 BST 2015">mypic3()></command_run>
+<menu_button time="Mon Oct 12 14:50:35 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 14:50:36 BST 2015">X:\JES\test</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 14:50:37 BST 2015">mypic3()></command_run>
+<menu_button time="Mon Oct 12 14:52:43 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 14:52:44 BST 2015">X:\JES\test</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 14:52:46 BST 2015">mypic3()></command_run>
+<menu_button time="Mon Oct 12 14:53:18 BST 2015">Save Program As...</menu_button>
+<file_saved time="Mon Oct 12 14:53:45 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<menu_button time="Mon Oct 12 14:56:46 BST 2015">Load Program</menu_button>
+<command_run time="Mon Oct 12 14:56:49 BST 2015">mypic3()></command_run>
+<menu_button time="Mon Oct 12 14:57:15 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 14:57:16 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 14:57:18 BST 2015">mypic3()></command_run>
+<command_run time="Mon Oct 12 15:04:50 BST 2015">pic5()></command_run>
+<menu_button time="Mon Oct 12 15:05:38 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 15:05:39 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 15:05:40 BST 2015">pic5()></command_run>
+<menu_button time="Mon Oct 12 15:06:28 BST 2015">Load Program</menu_button>
+<command_run time="Mon Oct 12 15:06:31 BST 2015">pic5()></command_run>
+<menu_button time="Mon Oct 12 15:07:05 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 15:07:06 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 15:07:07 BST 2015">pic5()></command_run>
+<menu_button time="Mon Oct 12 15:07:55 BST 2015">Load Program</menu_button>
+<command_run time="Mon Oct 12 15:07:57 BST 2015">pic5()></command_run>
+<command_run time="Mon Oct 12 15:08:16 BST 2015">pic5()></command_run>
+<menu_button time="Mon Oct 12 15:09:17 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 15:09:18 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 15:09:19 BST 2015">pic5()></command_run>
+<menu_button time="Mon Oct 12 15:14:28 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 15:14:29 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 15:14:30 BST 2015">pic5()></command_run>
+<menu_button time="Mon Oct 12 15:33:43 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 15:33:44 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 15:33:45 BST 2015">pic5()></command_run>
+<menu_button time="Mon Oct 12 15:34:00 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 15:34:01 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 15:34:02 BST 2015">pic5()></command_run>
+<menu_button time="Mon Oct 12 15:34:32 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 15:34:33 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 15:34:34 BST 2015">pic5()></command_run>
+<menu_button time="Mon Oct 12 15:34:52 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 15:34:53 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 15:34:54 BST 2015">pic5()></command_run>
+<menu_button time="Mon Oct 12 15:35:13 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 15:35:14 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 15:35:15 BST 2015">pic5()></command_run>
+<menu_button time="Mon Oct 12 15:36:00 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 15:36:01 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 15:36:03 BST 2015">pic5()></command_run>
+<menu_button time="Mon Oct 12 15:36:20 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 15:36:20 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 15:36:22 BST 2015">pic5()></command_run>
+<menu_button time="Mon Oct 12 15:36:33 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 15:36:34 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 15:36:34 BST 2015">pic5()></command_run>
+<menu_button time="Mon Oct 12 15:36:46 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 15:36:47 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 15:36:48 BST 2015">pic5()></command_run>
+<menu_button time="Mon Oct 12 15:37:45 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:37:46 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:37:46 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:37:46 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:37:47 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:37:47 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:37:47 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:37:47 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:37:47 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:37:47 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:37:47 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:37:47 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:37:47 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:37:47 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:37:47 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:37:47 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:37:47 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:37:48 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:37:48 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:37:48 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:37:48 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:37:48 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:37:48 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:37:48 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:37:48 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:37:48 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:37:48 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:37:48 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:37:48 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:37:48 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:37:48 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:37:49 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 12 15:38:30 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 15:38:31 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 15:38:32 BST 2015">pic5()></command_run>
+<menu_button time="Mon Oct 12 15:38:53 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 15:38:54 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 15:38:55 BST 2015">pic5()></command_run>
+<menu_button time="Mon Oct 12 15:39:31 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 15:39:32 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 15:39:32 BST 2015">pic5()></command_run>
+<menu_button time="Mon Oct 12 15:47:27 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 15:47:28 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 15:47:29 BST 2015">pic5()></command_run>
+<menu_button time="Mon Oct 12 15:49:56 BST 2015">Explain <click></menu_button>
+<menu_button time="Mon Oct 12 15:49:58 BST 2015">Explain setBlue</menu_button>
+<menu_button time="Mon Oct 12 15:50:04 BST 2015">Explain <click></menu_button>
+<menu_button time="Mon Oct 12 15:50:07 BST 2015">Explain getPixels</menu_button>
+<menu_button time="Mon Oct 12 15:51:51 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 15:51:52 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 15:51:53 BST 2015">pic5()></command_run>
+<menu_button time="Mon Oct 12 16:04:34 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 16:04:35 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 16:04:36 BST 2015">pic5()></command_run>
+<menu_button time="Mon Oct 12 16:09:36 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 16:09:37 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 16:09:38 BST 2015">pic5()></command_run>
+<menu_button time="Mon Oct 12 16:09:54 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 16:09:54 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 16:09:55 BST 2015">pic5()></command_run>
+<menu_button time="Mon Oct 12 16:10:02 BST 2015">Load Program</menu_button>
+<command_run time="Mon Oct 12 16:10:03 BST 2015">pic5()></command_run>
+<menu_button time="Mon Oct 12 16:26:57 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 12 16:26:58 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 12 16:27:04 BST 2015">makeSunset()></command_run>
+<menu_button time="Mon Oct 12 16:34:58 BST 2015">Save Program</menu_button>
+<file_saved time="Mon Oct 12 16:34:59 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<menu_button time="Mon Oct 12 16:56:46 BST 2015">Save Program</menu_button>
+<file_saved time="Mon Oct 12 16:56:46 BST 2015">X:\JES\programs\manipulating images</file_saved>
+<file_opened time="Wed Oct 14 08:49:24 BST 2015">X:\JES\programs\manipulating images</file_opened>
+<menu_button time="Wed Oct 14 08:50:02 BST 2015">Load Program</menu_button>
+<file_saved time="Wed Oct 14 08:50:04 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Wed Oct 14 08:50:10 BST 2015">pic5()></command_run>
+<command_run time="Wed Oct 14 08:52:45 BST 2015">pic5()></command_run>
+<command_run time="Wed Oct 14 09:04:53 BST 2015">pic3()></command_run>
+<menu_button time="Wed Oct 14 09:04:55 BST 2015">Load Program</menu_button>
+<file_saved time="Wed Oct 14 09:04:56 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Wed Oct 14 09:04:58 BST 2015">pic3()></command_run>
+<command_run time="Wed Oct 14 09:05:03 BST 2015">MYpic3()></command_run>
+<command_run time="Wed Oct 14 09:05:12 BST 2015">mypic3()></command_run>
+<menu_button time="Wed Oct 14 09:30:59 BST 2015">Load Program</menu_button>
+<file_saved time="Wed Oct 14 09:31:00 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Wed Oct 14 09:31:03 BST 2015">pic3()></command_run>
+<command_run time="Wed Oct 14 09:31:06 BST 2015">pic5()></command_run>
+<command_run time="Wed Oct 14 09:31:22 BST 2015">pic5()></command_run>
+<menu_button time="Wed Oct 14 09:31:54 BST 2015">Load Program</menu_button>
+<file_saved time="Wed Oct 14 09:31:55 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Wed Oct 14 09:31:56 BST 2015">pic5()></command_run>
+<menu_button time="Wed Oct 14 09:32:12 BST 2015">Load Program</menu_button>
+<file_saved time="Wed Oct 14 09:32:14 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Wed Oct 14 09:32:15 BST 2015">pic5()></command_run>
+<menu_button time="Wed Oct 14 09:32:28 BST 2015">Load Program</menu_button>
+<file_saved time="Wed Oct 14 09:32:29 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Wed Oct 14 09:32:30 BST 2015">pic5()></command_run>
+<menu_button time="Wed Oct 14 09:34:15 BST 2015">Load Program</menu_button>
+<file_saved time="Wed Oct 14 09:34:16 BST 2015">X:\JES\programs\manipulating images</file_saved>
+<file_opened time="Wed Oct 14 09:39:47 BST 2015">X:\JES\programs\manipulating images</file_opened>
+<menu_button time="Wed Oct 14 09:39:54 BST 2015">Load Program</menu_button>
+<command_run time="Wed Oct 14 09:39:58 BST 2015">pic5()></command_run>
+<menu_button time="Wed Oct 14 09:44:17 BST 2015">Load Program</menu_button>
+<file_saved time="Wed Oct 14 09:44:18 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<menu_button time="Wed Oct 14 09:44:26 BST 2015">Load Program</menu_button>
+<menu_button time="Wed Oct 14 09:44:52 BST 2015">Load Program</menu_button>
+<file_saved time="Wed Oct 14 09:44:53 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<menu_button time="Wed Oct 14 09:45:42 BST 2015">Load Program</menu_button>
+<file_saved time="Wed Oct 14 09:45:43 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Wed Oct 14 09:45:45 BST 2015">pic5()></command_run>
+<menu_button time="Wed Oct 14 09:46:08 BST 2015">Load Program</menu_button>
+<file_saved time="Wed Oct 14 09:46:08 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Wed Oct 14 09:46:09 BST 2015">pic5()></command_run>
+<menu_button time="Wed Oct 14 09:49:43 BST 2015">Load Program</menu_button>
+<file_saved time="Wed Oct 14 09:49:44 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Wed Oct 14 09:49:45 BST 2015">pic5()></command_run>
+<menu_button time="Wed Oct 14 09:50:45 BST 2015">Load Program</menu_button>
+<file_saved time="Wed Oct 14 09:50:46 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<menu_button time="Wed Oct 14 09:50:49 BST 2015">Load Program</menu_button>
+<file_saved time="Wed Oct 14 09:50:50 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Wed Oct 14 09:50:51 BST 2015">pic5()></command_run>
+<menu_button time="Wed Oct 14 09:51:32 BST 2015">Load Program</menu_button>
+<file_saved time="Wed Oct 14 09:51:32 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Wed Oct 14 09:51:35 BST 2015">pic5()></command_run>
+<menu_button time="Wed Oct 14 09:57:47 BST 2015">Load Program</menu_button>
+<file_saved time="Wed Oct 14 09:57:48 BST 2015">X:\JES\programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Wed Oct 14 09:57:49 BST 2015">pic5()></command_run>
+<command_run time="Wed Oct 14 09:59:12 BST 2015">pic5()></command_run>
+<command_run time="Wed Oct 14 10:05:54 BST 2015">pic()></command_run>
+<menu_button time="Wed Oct 14 10:40:41 BST 2015">New Program</menu_button>
+<file_saved time="Wed Oct 14 10:40:42 BST 2015">X:\JES\programs\manipulating images</file_saved>
+<file_opened time="Mon Oct 19 14:15:43 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_opened>
+<menu_button time="Mon Oct 19 14:23:20 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 14:23:21 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 14:23:34 BST 2015">colourdistance()></command_run>
+<menu_button time="Mon Oct 19 14:24:38 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 14:24:39 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 14:24:41 BST 2015">colourdistance()></command_run>
+<menu_button time="Mon Oct 19 14:25:35 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 14:25:36 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<menu_button time="Mon Oct 19 14:25:42 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 14:25:43 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 14:25:45 BST 2015">colourdistance()></command_run>
+<menu_button time="Mon Oct 19 14:26:42 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 14:26:43 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 14:26:45 BST 2015">colourdistance()></command_run>
+<menu_button time="Mon Oct 19 14:27:47 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 14:27:49 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 14:27:50 BST 2015">colourdistance()></command_run>
+<menu_button time="Mon Oct 19 14:28:11 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 14:28:12 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<menu_button time="Mon Oct 19 14:32:42 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 14:32:43 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 14:32:45 BST 2015">colourdistance()></command_run>
+<menu_button time="Mon Oct 19 14:33:32 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 14:33:33 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 14:33:34 BST 2015">colourdistance()></command_run>
+<menu_button time="Mon Oct 19 14:34:06 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 14:34:07 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 14:34:08 BST 2015">colourdistance()></command_run>
+<menu_button time="Mon Oct 19 14:34:44 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 14:34:45 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 14:34:46 BST 2015">colourdistance()></command_run>
+<menu_button time="Mon Oct 19 14:35:22 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 14:35:24 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 14:35:25 BST 2015">colourdistance()></command_run>
+<menu_button time="Mon Oct 19 14:37:55 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 14:37:56 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 14:37:58 BST 2015">colourdistance()></command_run>
+<menu_button time="Mon Oct 19 14:39:11 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 14:39:12 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 14:39:14 BST 2015">colourdistance()></command_run>
+<menu_button time="Mon Oct 19 14:40:09 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 14:40:10 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 14:40:12 BST 2015">colourdistance()></command_run>
+<menu_button time="Mon Oct 19 14:40:27 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 14:40:28 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 14:40:30 BST 2015">colourdistance()></command_run>
+<menu_button time="Mon Oct 19 14:41:02 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 14:41:04 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 14:41:05 BST 2015">colourdistance()></command_run>
+<menu_button time="Mon Oct 19 14:47:02 BST 2015">Undo</menu_button>
+<menu_button time="Mon Oct 19 14:47:30 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 14:47:32 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 14:47:37 BST 2015">turnRed()></command_run>
+<menu_button time="Mon Oct 19 14:49:02 BST 2015">Load Program</menu_button>
+<command_run time="Mon Oct 19 14:49:04 BST 2015">turnRed()></command_run>
+<menu_button time="Mon Oct 19 14:50:57 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 14:50:59 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 14:51:05 BST 2015">turnRed()></command_run>
+<menu_button time="Mon Oct 19 14:51:35 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 14:51:36 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 14:51:37 BST 2015">turnRed()></command_run>
+<menu_button time="Mon Oct 19 14:53:36 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 14:53:37 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 14:53:38 BST 2015">turnRed()></command_run>
+<menu_button time="Mon Oct 19 14:54:23 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 14:54:24 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 14:54:25 BST 2015">turnRed()></command_run>
+<menu_button time="Mon Oct 19 14:55:05 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 14:55:06 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 14:55:07 BST 2015">turnRed()></command_run>
+<menu_button time="Mon Oct 19 14:55:20 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 14:55:21 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 14:55:22 BST 2015">turnRed()></command_run>
+<menu_button time="Mon Oct 19 14:55:50 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 14:55:51 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 14:55:53 BST 2015">turnRed()></command_run>
+<menu_button time="Mon Oct 19 14:56:06 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 14:56:07 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 14:56:08 BST 2015">turnRed()></command_run>
+<menu_button time="Mon Oct 19 14:57:15 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 14:57:16 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 14:57:17 BST 2015">turnRed()></command_run>
+<menu_button time="Mon Oct 19 14:57:27 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 14:57:28 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 14:57:29 BST 2015">turnRed()></command_run>
+<menu_button time="Mon Oct 19 14:57:38 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 14:57:40 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 14:57:41 BST 2015">turnRed()></command_run>
+<menu_button time="Mon Oct 19 14:58:31 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 14:58:51 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 14:58:53 BST 2015">turnRed()></command_run>
+<menu_button time="Mon Oct 19 14:59:14 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 14:59:15 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 14:59:16 BST 2015">turnRed()></command_run>
+<menu_button time="Mon Oct 19 15:00:21 BST 2015">Load Program</menu_button>
+<command_run time="Mon Oct 19 15:00:26 BST 2015">turnRed()></command_run>
+<menu_button time="Mon Oct 19 15:01:02 BST 2015">Load Program</menu_button>
+<command_run time="Mon Oct 19 15:01:03 BST 2015">turnRed()></command_run>
+<menu_button time="Mon Oct 19 15:02:03 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:02:04 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:02:06 BST 2015">turnRed()></command_run>
+<menu_button time="Mon Oct 19 15:02:59 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:03:01 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:03:02 BST 2015">turnRed()></command_run>
+<menu_button time="Mon Oct 19 15:03:40 BST 2015">Save Program</menu_button>
+<file_saved time="Mon Oct 19 15:03:40 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<menu_button time="Mon Oct 19 15:04:06 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:04:07 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:04:08 BST 2015">turnRed()></command_run>
+<menu_button time="Mon Oct 19 15:04:52 BST 2015">Load Program</menu_button>
+<command_run time="Mon Oct 19 15:04:53 BST 2015">turnRed()></command_run>
+<menu_button time="Mon Oct 19 15:05:15 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:05:16 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:05:17 BST 2015">turnRed()></command_run>
+<menu_button time="Mon Oct 19 15:05:58 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:05:58 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:06:00 BST 2015">turnRed()></command_run>
+<menu_button time="Mon Oct 19 15:06:15 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:06:16 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:06:17 BST 2015">turnRed()></command_run>
+<menu_button time="Mon Oct 19 15:08:52 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:08:53 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<menu_button time="Mon Oct 19 15:09:48 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:09:49 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:09:57 BST 2015">removecolor()></command_run>
+<command_run time="Mon Oct 19 15:10:12 BST 2015">removecolor()></command_run>
+<menu_button time="Mon Oct 19 15:12:27 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:12:28 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:12:30 BST 2015">removecolor()></command_run>
+<menu_button time="Mon Oct 19 15:12:47 BST 2015">Load Program</menu_button>
+<command_run time="Mon Oct 19 15:12:48 BST 2015">removecolor()></command_run>
+<menu_button time="Mon Oct 19 15:12:58 BST 2015">Load Program</menu_button>
+<command_run time="Mon Oct 19 15:12:59 BST 2015">removecolor()></command_run>
+<menu_button time="Mon Oct 19 15:13:49 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:13:51 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:13:53 BST 2015">removecolor()></command_run>
+<menu_button time="Mon Oct 19 15:17:49 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:17:50 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<menu_button time="Mon Oct 19 15:18:19 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:18:20 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:18:22 BST 2015">removecolor()></command_run>
+<menu_button time="Mon Oct 19 15:18:50 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:18:51 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:19:03 BST 2015">reducecolor()></command_run>
+<menu_button time="Mon Oct 19 15:19:15 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:19:16 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:19:18 BST 2015">reducecolor()></command_run>
+<menu_button time="Mon Oct 19 15:19:28 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:19:29 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:19:30 BST 2015">reducecolor()></command_run>
+<menu_button time="Mon Oct 19 15:20:20 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:20:21 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:20:22 BST 2015">reducecolor()></command_run>
+<menu_button time="Mon Oct 19 15:20:38 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:20:39 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:20:40 BST 2015">reducecolor()></command_run>
+<menu_button time="Mon Oct 19 15:21:34 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:21:35 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:21:37 BST 2015">reducecolor()></command_run>
+<menu_button time="Mon Oct 19 15:21:49 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:21:50 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:21:51 BST 2015">reducecolor()></command_run>
+<menu_button time="Mon Oct 19 15:22:04 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:22:05 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:22:06 BST 2015">reducecolor()></command_run>
+<menu_button time="Mon Oct 19 15:25:38 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:25:39 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:25:40 BST 2015">reducecolor()></command_run>
+<command_run time="Mon Oct 19 15:26:05 BST 2015">reducecolor()></command_run>
+<menu_button time="Mon Oct 19 15:26:29 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:26:30 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:26:33 BST 2015">reducecolor()></command_run>
+<menu_button time="Mon Oct 19 15:27:07 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:27:07 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:27:09 BST 2015">reducecolor()></command_run>
+<menu_button time="Mon Oct 19 15:27:29 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:27:30 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:27:31 BST 2015">reducecolor()></command_run>
+<command_run time="Mon Oct 19 15:27:56 BST 2015">reducecolor()></command_run>
+<command_run time="Mon Oct 19 15:28:13 BST 2015">reducecolor()></command_run>
+<command_run time="Mon Oct 19 15:29:02 BST 2015">reducecolorinarea()></command_run>
+<command_run time="Mon Oct 19 15:29:21 BST 2015">reducecolorinarea()></command_run>
+<menu_button time="Mon Oct 19 15:29:23 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:29:24 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:29:25 BST 2015">reducecolorinarea()></command_run>
+<command_run time="Mon Oct 19 15:29:37 BST 2015">reducecolorinarea()></command_run>
+<command_run time="Mon Oct 19 15:30:23 BST 2015">reducecolorinarea()></command_run>
+<command_run time="Mon Oct 19 15:31:09 BST 2015">reducecolorinarea()></command_run>
+<command_run time="Mon Oct 19 15:32:31 BST 2015">reducecolorinarea()></command_run>
+<menu_button time="Mon Oct 19 15:34:01 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:34:02 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:34:14 BST 2015">reducecolorinarea()></command_run>
+<menu_button time="Mon Oct 19 15:35:22 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:35:23 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:35:24 BST 2015">reducecolorinarea()></command_run>
+<menu_button time="Mon Oct 19 15:35:52 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:35:53 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:35:54 BST 2015">reducecolorinarea()></command_run>
+<menu_button time="Mon Oct 19 15:42:54 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:42:55 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<menu_button time="Mon Oct 19 15:44:54 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:44:56 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:47:40 BST 2015">reducecolorinarea()></command_run>
+<menu_button time="Mon Oct 19 15:48:12 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:48:13 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<menu_button time="Mon Oct 19 15:48:28 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:48:29 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:48:36 BST 2015">image1()></command_run>
+<menu_button time="Mon Oct 19 15:49:21 BST 2015">Load Program</menu_button>
+<command_run time="Mon Oct 19 15:49:23 BST 2015">image1()></command_run>
+<command_run time="Mon Oct 19 15:50:46 BST 2015">image1()></command_run>
+<menu_button time="Mon Oct 19 15:53:36 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:53:37 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<menu_button time="Mon Oct 19 15:54:14 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:54:15 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:54:18 BST 2015">image1()></command_run>
+<menu_button time="Mon Oct 19 15:54:30 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:54:31 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:54:33 BST 2015">image1()></command_run>
+<menu_button time="Mon Oct 19 15:54:42 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:54:43 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:54:44 BST 2015">image1()></command_run>
+<menu_button time="Mon Oct 19 15:57:32 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:57:33 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<menu_button time="Mon Oct 19 15:57:58 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:57:59 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:58:01 BST 2015">image1()></command_run>
+<menu_button time="Mon Oct 19 15:58:40 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:58:41 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:58:43 BST 2015">image1()></command_run>
+<menu_button time="Mon Oct 19 15:58:59 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 15:59:00 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 15:59:01 BST 2015">image1()></command_run>
+<menu_button time="Mon Oct 19 16:00:12 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 16:00:13 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 16:00:15 BST 2015">image1()></command_run>
+<menu_button time="Mon Oct 19 16:00:45 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 16:00:46 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 16:00:47 BST 2015">image1()></command_run>
+<menu_button time="Mon Oct 19 16:03:11 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 16:03:12 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 16:03:14 BST 2015">image1()></command_run>
+<menu_button time="Mon Oct 19 16:03:29 BST 2015">Load Program</menu_button>
+<command_run time="Mon Oct 19 16:03:30 BST 2015">image1()></command_run>
+<menu_button time="Mon Oct 19 16:03:41 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 16:03:42 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 16:03:43 BST 2015">image1()></command_run>
+<command_run time="Mon Oct 19 16:03:52 BST 2015">image1()></command_run>
+<menu_button time="Mon Oct 19 16:06:53 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 16:06:54 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 16:06:57 BST 2015">image1()></command_run>
+<menu_button time="Mon Oct 19 16:10:49 BST 2015">Save Program</menu_button>
+<file_saved time="Mon Oct 19 16:10:49 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<menu_button time="Mon Oct 19 16:35:20 BST 2015">Load Program</menu_button>
+<command_run time="Mon Oct 19 16:35:22 BST 2015">image1()></command_run>
+<menu_button time="Mon Oct 19 16:38:55 BST 2015">Save Program</menu_button>
+<file_saved time="Mon Oct 19 16:38:55 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+<file_opened time="Mon Oct 19 16:41:56 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_opened>
+<menu_button time="Mon Oct 19 16:43:37 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 16:43:38 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 16:43:41 BST 2015">image1()></command_run>
+<menu_button time="Mon Oct 19 16:44:27 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 16:44:28 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 16:44:29 BST 2015">image1()></command_run>
+<menu_button time="Mon Oct 19 16:45:40 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 16:45:41 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 16:45:45 BST 2015">edge()></command_run>
+<menu_button time="Mon Oct 19 16:45:52 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 16:45:53 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 16:45:54 BST 2015">edge()></command_run>
+<menu_button time="Mon Oct 19 16:46:11 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 16:46:12 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 16:46:13 BST 2015">edge()></command_run>
+<menu_button time="Mon Oct 19 16:47:15 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 16:47:16 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 16:47:17 BST 2015">edge()></command_run>
+<menu_button time="Mon Oct 19 16:47:50 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 16:47:51 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 16:47:52 BST 2015">edge()></command_run>
+<menu_button time="Mon Oct 19 16:48:51 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 16:48:52 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 16:48:56 BST 2015">edge()></command_run>
+<menu_button time="Mon Oct 19 16:50:30 BST 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 19 16:50:31 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 19 16:50:33 BST 2015">edge()></command_run>
+<menu_button time="Mon Oct 19 16:53:41 BST 2015">Load Program</menu_button>
+<command_run time="Mon Oct 19 16:53:42 BST 2015">edge()></command_run>
+<menu_button time="Mon Oct 19 16:55:34 BST 2015">Save Program</menu_button>
+<file_saved time="Mon Oct 19 16:55:34 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<menu_button time="Mon Oct 19 16:56:48 BST 2015">Save Program</menu_button>
+<file_saved time="Mon Oct 19 16:56:48 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<menu_button time="Mon Oct 19 17:01:11 BST 2015">Save Program</menu_button>
+<file_saved time="Mon Oct 19 17:01:11 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<menu_button time="Mon Oct 19 21:01:20 BST 2015">Save Program</menu_button>
+<file_saved time="Mon Oct 19 21:01:20 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+<file_opened time="Wed Oct 21 10:46:56 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_opened>
+<menu_button time="Wed Oct 21 10:48:10 BST 2015">Load Program</menu_button>
+<file_saved time="Wed Oct 21 10:48:11 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Wed Oct 21 10:48:14 BST 2015">pic5()></command_run>
+<menu_button time="Wed Oct 21 11:51:59 BST 2015">Save Program</menu_button>
+<file_saved time="Wed Oct 21 11:51:59 BST 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+<file_opened time="Mon Oct 26 13:24:10 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_opened>
+<menu_button time="Mon Oct 26 13:41:43 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 13:41:45 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 26 13:41:55 GMT 2015">copyHorseFaceLarger()></command_run>
+<command_run time="Mon Oct 26 13:42:24 GMT 2015">copyHorseFaceLarger()></command_run>
+<command_run time="Mon Oct 26 13:42:49 GMT 2015">copyHorseFaceLarger()></command_run>
+<command_run time="Mon Oct 26 13:44:25 GMT 2015">turnRed()></command_run>
+<command_run time="Mon Oct 26 13:45:11 GMT 2015">makeSunset()></command_run>
+<menu_button time="Mon Oct 26 13:46:06 GMT 2015">Stop</menu_button>
+<menu_button time="Mon Oct 26 13:46:58 GMT 2015">Explain makeEmptyPicture</menu_button>
+<menu_button time="Mon Oct 26 13:48:10 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 13:48:11 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 26 13:48:15 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 13:48:45 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 13:48:46 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 26 13:48:47 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 13:49:05 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 13:49:06 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 26 13:49:07 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 13:49:30 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 13:49:31 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 26 13:49:32 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 13:50:27 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 13:50:28 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 26 13:50:29 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 13:51:28 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 13:51:29 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 26 13:51:30 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 13:52:48 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 13:52:49 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 26 13:52:50 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 13:55:16 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 13:55:17 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 26 13:55:18 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 13:56:25 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 13:56:26 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 26 13:56:27 GMT 2015">copyHorseFaceLarger()></command_run>
+<command_run time="Mon Oct 26 14:06:00 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 14:10:16 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 14:10:18 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 26 14:10:19 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 14:12:30 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 14:12:31 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 26 14:12:33 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 14:12:55 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 14:12:57 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 26 14:12:58 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 14:13:41 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 14:13:42 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 26 14:13:43 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 14:14:14 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 14:14:15 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 26 14:14:16 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 14:16:42 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 14:16:44 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 26 14:16:45 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 14:20:56 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 14:20:57 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<menu_button time="Mon Oct 26 14:22:45 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 14:22:46 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 26 14:22:51 GMT 2015">scaleUP()></command_run>
+<command_run time="Mon Oct 26 14:22:58 GMT 2015">scaleUp()></command_run>
+<menu_button time="Mon Oct 26 14:30:21 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 14:30:22 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 26 14:30:25 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 14:31:37 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 14:31:39 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 26 14:31:40 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 14:35:23 GMT 2015">Load Program</menu_button>
+<command_run time="Mon Oct 26 14:35:24 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 14:35:44 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 14:35:45 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 26 14:35:47 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 14:36:26 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 14:36:27 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 26 14:36:28 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 14:37:37 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 14:37:38 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 26 14:37:39 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 14:39:17 GMT 2015">Load Program</menu_button>
+<command_run time="Mon Oct 26 14:39:18 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 14:49:04 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 14:49:05 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 26 14:49:10 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 14:49:47 GMT 2015">Stop</menu_button>
+<menu_button time="Mon Oct 26 14:50:00 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 14:50:01 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 26 14:50:03 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 14:53:06 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 14:53:07 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 26 14:53:09 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 14:57:12 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 14:57:14 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<menu_button time="Mon Oct 26 14:57:30 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 14:57:41 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 14:57:42 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<menu_button time="Mon Oct 26 14:57:49 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 14:57:50 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<menu_button time="Mon Oct 26 14:58:05 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 14:58:06 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<menu_button time="Mon Oct 26 14:58:21 GMT 2015">Explain <click></menu_button>
+<menu_button time="Mon Oct 26 14:58:36 GMT 2015">Explain <click></menu_button>
+<menu_button time="Mon Oct 26 14:58:54 GMT 2015">Program Area + Interactions Area</menu_button>
+<menu_button time="Mon Oct 26 15:04:32 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:04:36 GMT 2015">Redo</menu_button>
+<menu_button time="Mon Oct 26 15:04:37 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:05:44 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 15:05:45 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<menu_button time="Mon Oct 26 15:05:48 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:05:51 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 15:05:52 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<menu_button time="Mon Oct 26 15:05:55 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:05:55 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:05:55 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:05:55 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:05:55 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:05:57 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:05:57 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:05:58 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:05:58 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:05:58 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:05:58 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:05:59 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:05:59 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:05:59 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:05:59 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:00 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:00 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:00 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:00 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:00 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:00 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:00 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:00 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:00 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:00 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:00 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:00 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:00 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:00 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:01 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:01 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:01 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:01 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:01 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:01 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:01 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:02 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:02 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:02 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:02 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:03 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:03 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:03 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:03 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:03 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:04 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:04 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:04 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:05 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:05 GMT 2015">Undo</menu_button>
+<menu_button time="Mon Oct 26 15:06:11 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 15:06:12 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<menu_button time="Mon Oct 26 15:06:19 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 15:06:20 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 26 15:06:23 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 15:06:56 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 15:06:57 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 26 15:06:59 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 15:07:08 GMT 2015">Load Program</menu_button>
+<command_run time="Mon Oct 26 15:07:09 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 15:07:38 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 15:07:39 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 26 15:07:40 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 15:08:08 GMT 2015">Save Program</menu_button>
+<file_saved time="Mon Oct 26 15:08:08 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<menu_button time="Mon Oct 26 15:08:27 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 15:08:28 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 26 15:08:30 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 15:08:34 GMT 2015">Load Program</menu_button>
+<command_run time="Mon Oct 26 15:08:36 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 15:44:48 GMT 2015">Load Program</menu_button>
+<command_run time="Mon Oct 26 15:44:51 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 15:45:16 GMT 2015">Load Program</menu_button>
+<file_saved time="Mon Oct 26 15:45:17 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Mon Oct 26 15:45:19 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 15:45:31 GMT 2015">Save Program</menu_button>
+<file_saved time="Mon Oct 26 15:45:31 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+<file_opened time="Mon Oct 26 15:45:54 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_opened>
+<menu_button time="Mon Oct 26 15:46:07 GMT 2015">Load Program</menu_button>
+<command_run time="Mon Oct 26 15:46:09 GMT 2015">></command_run>
+<command_run time="Mon Oct 26 15:46:12 GMT 2015">copyHorseFaceLarger()></command_run>
+<menu_button time="Mon Oct 26 15:47:27 GMT 2015">Save Program</menu_button>
+<file_saved time="Mon Oct 26 15:47:27 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+<file_opened time="Thu Oct 29 14:20:25 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_opened>
+<menu_button time="Thu Oct 29 14:22:37 GMT 2015">Save Program</menu_button>
+<file_saved time="Thu Oct 29 14:22:37 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+<file_opened time="Thu Oct 29 14:24:34 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_opened>
+<menu_button time="Thu Oct 29 14:24:57 GMT 2015">Load Program</menu_button>
+<command_run time="Thu Oct 29 14:25:03 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 14:27:21 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 14:27:22 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 14:27:24 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 14:28:42 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 14:28:43 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 14:28:44 GMT 2015">EnlargeImage()></command_run>
+<command_run time="Thu Oct 29 14:29:21 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 14:29:43 GMT 2015">Stop</menu_button>
+<menu_button time="Thu Oct 29 14:30:48 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 14:30:49 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 14:30:50 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 14:32:47 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 14:32:49 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 14:32:51 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 14:33:16 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 14:33:17 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 14:33:18 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 14:33:36 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 14:33:37 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 14:33:38 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 14:34:26 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 14:34:27 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 14:34:28 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 14:38:16 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 14:38:18 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 14:38:19 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 14:40:44 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 14:40:45 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 14:40:46 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 14:41:11 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 14:41:12 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 14:41:13 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 14:41:46 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 14:41:47 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 14:41:48 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 14:43:31 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 14:43:32 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 14:43:33 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 14:44:31 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 14:44:32 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 14:44:35 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 14:45:17 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 14:45:18 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 14:45:19 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 14:45:47 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 14:45:48 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 14:45:49 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 14:46:13 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 14:46:14 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 14:46:16 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 14:47:46 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 14:47:47 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 14:47:49 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 14:50:06 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 14:50:07 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 14:50:08 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 14:50:35 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 14:50:36 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 14:50:37 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 14:51:27 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 14:51:28 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 14:51:29 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 14:51:57 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 14:51:58 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 14:51:59 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 14:52:15 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 14:52:16 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 14:52:17 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 14:52:38 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 14:52:40 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 14:52:41 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 14:57:31 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 14:57:33 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 14:57:34 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 14:59:03 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 14:59:05 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 14:59:06 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 15:01:00 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 15:01:01 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 15:01:02 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 15:09:44 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 15:09:45 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<menu_button time="Thu Oct 29 15:09:53 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 15:09:54 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 15:09:55 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 15:11:00 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 15:11:01 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 15:11:02 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 15:16:28 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 15:16:29 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 15:16:31 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 15:17:30 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 15:17:31 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 15:17:32 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 15:18:32 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 15:18:33 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 15:18:34 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 15:19:39 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 15:19:41 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 15:19:42 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 15:21:28 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 15:21:29 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 15:21:31 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 15:23:05 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 15:23:07 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 15:23:08 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 15:25:39 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 15:25:40 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 15:25:42 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 15:26:00 GMT 2015">Save Program</menu_button>
+<file_saved time="Thu Oct 29 15:26:00 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+<file_opened time="Thu Oct 29 15:26:25 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_opened>
+<menu_button time="Thu Oct 29 15:26:34 GMT 2015">Load Program</menu_button>
+<command_run time="Thu Oct 29 15:26:42 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 15:29:38 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 15:29:39 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<menu_button time="Thu Oct 29 15:34:56 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 15:34:57 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 15:35:01 GMT 2015">picture()></command_run>
+<menu_button time="Thu Oct 29 15:35:33 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 15:35:35 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 15:35:36 GMT 2015">picture()></command_run>
+<menu_button time="Thu Oct 29 15:35:50 GMT 2015">Load Program</menu_button>
+<command_run time="Thu Oct 29 15:35:52 GMT 2015">picture()></command_run>
+<menu_button time="Thu Oct 29 15:39:23 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 15:39:24 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 15:39:25 GMT 2015">picture()></command_run>
+<menu_button time="Thu Oct 29 15:41:27 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 15:41:29 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 15:41:30 GMT 2015">picture()></command_run>
+<menu_button time="Thu Oct 29 15:42:13 GMT 2015">Explain getPixelAt</menu_button>
+<menu_button time="Thu Oct 29 15:44:40 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 15:44:41 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 15:44:43 GMT 2015">picture()></command_run>
+<menu_button time="Thu Oct 29 15:44:56 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 15:44:57 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 15:44:59 GMT 2015">picture()></command_run>
+<menu_button time="Thu Oct 29 15:45:15 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 15:45:16 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 15:45:18 GMT 2015">picture()></command_run>
+<menu_button time="Thu Oct 29 15:45:27 GMT 2015">Explain getPixels</menu_button>
+<menu_button time="Thu Oct 29 15:45:40 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 15:45:41 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 15:45:42 GMT 2015">picture()></command_run>
+<menu_button time="Thu Oct 29 15:45:57 GMT 2015">Explain setColor</menu_button>
+<menu_button time="Thu Oct 29 15:46:17 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 15:46:19 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 15:46:20 GMT 2015">picture()></command_run>
+<menu_button time="Thu Oct 29 15:48:10 GMT 2015">Undo</menu_button>
+<menu_button time="Thu Oct 29 15:48:10 GMT 2015">Undo</menu_button>
+<menu_button time="Thu Oct 29 15:48:10 GMT 2015">Undo</menu_button>
+<menu_button time="Thu Oct 29 15:48:10 GMT 2015">Undo</menu_button>
+<menu_button time="Thu Oct 29 15:48:10 GMT 2015">Undo</menu_button>
+<menu_button time="Thu Oct 29 15:48:11 GMT 2015">Undo</menu_button>
+<menu_button time="Thu Oct 29 15:48:11 GMT 2015">Undo</menu_button>
+<menu_button time="Thu Oct 29 15:48:11 GMT 2015">Undo</menu_button>
+<menu_button time="Thu Oct 29 15:48:11 GMT 2015">Undo</menu_button>
+<menu_button time="Thu Oct 29 15:48:12 GMT 2015">Undo</menu_button>
+<menu_button time="Thu Oct 29 15:48:12 GMT 2015">Undo</menu_button>
+<menu_button time="Thu Oct 29 15:48:13 GMT 2015">Undo</menu_button>
+<menu_button time="Thu Oct 29 15:48:35 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 15:48:36 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 15:48:37 GMT 2015">picture()></command_run>
+<menu_button time="Thu Oct 29 15:49:10 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 15:49:11 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 15:49:12 GMT 2015">picture()></command_run>
+<menu_button time="Thu Oct 29 15:56:07 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 15:56:08 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 15:56:09 GMT 2015">picture()></command_run>
+<command_run time="Thu Oct 29 15:56:23 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 15:57:05 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 15:57:06 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 15:57:07 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 15:58:02 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 15:58:03 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 15:58:04 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 15:58:25 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 15:58:26 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 15:58:27 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 15:59:00 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 15:59:01 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 15:59:02 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 15:59:13 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 15:59:14 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 15:59:15 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 15:59:36 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 15:59:37 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 15:59:38 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 16:00:28 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 16:00:30 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 16:00:30 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 16:00:52 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 16:00:53 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 16:00:54 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 16:01:46 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 16:01:48 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 16:01:49 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 16:05:57 GMT 2015">Save Program</menu_button>
+<file_saved time="Thu Oct 29 16:05:57 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+<file_opened time="Thu Oct 29 16:58:54 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_opened>
+<menu_button time="Thu Oct 29 16:59:07 GMT 2015">Watcher</menu_button>
+<menu_button time="Thu Oct 29 16:59:13 GMT 2015">Explain makePicture</menu_button>
+<menu_button time="Thu Oct 29 16:59:28 GMT 2015">Load Program</menu_button>
+<command_run time="Thu Oct 29 16:59:34 GMT 2015">EnlargeImage()></command_run>
+<command_run time="Thu Oct 29 17:06:11 GMT 2015">edgedetection()></command_run>
+<menu_button time="Thu Oct 29 17:08:45 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 17:08:47 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 17:08:48 GMT 2015">edgedetection()></command_run>
+<menu_button time="Thu Oct 29 17:10:05 GMT 2015">Stop</menu_button>
+<menu_button time="Thu Oct 29 17:10:52 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 17:10:54 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 17:11:01 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 17:11:36 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 17:11:37 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<menu_button time="Thu Oct 29 17:11:42 GMT 2015">Load Program</menu_button>
+<file_saved time="Thu Oct 29 17:11:44 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Thu Oct 29 17:11:45 GMT 2015">EnlargeImage()></command_run>
+<command_run time="Thu Oct 29 17:11:56 GMT 2015">EnlargeImage()></command_run>
+<menu_button time="Thu Oct 29 17:15:43 GMT 2015">Save Program</menu_button>
+<file_saved time="Thu Oct 29 17:15:43 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+<file_opened time="Sat Oct 31 14:28:00 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_opened>
+<menu_button time="Sat Oct 31 14:30:42 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 14:30:43 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 14:30:54 GMT 2015">EnlargeImageSection></command_run>
+<command_run time="Sat Oct 31 14:30:58 GMT 2015">EnlargeImageSection()></command_run>
+<menu_button time="Sat Oct 31 14:31:34 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 14:31:35 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 14:31:36 GMT 2015">EnlargeImageSection()></command_run>
+<menu_button time="Sat Oct 31 14:32:37 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 14:32:38 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 14:32:39 GMT 2015">EnlargeImageSection()></command_run>
+<menu_button time="Sat Oct 31 14:34:25 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 14:34:26 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 14:34:27 GMT 2015">EnlargeImageSection()></command_run>
+<menu_button time="Sat Oct 31 14:34:45 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 14:34:46 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 14:34:47 GMT 2015">EnlargeImageSection()></command_run>
+<menu_button time="Sat Oct 31 14:36:46 GMT 2015">Load Program</menu_button>
+<menu_button time="Sat Oct 31 14:36:52 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 14:36:53 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 14:36:54 GMT 2015">EnlargeImageSection()></command_run>
+<menu_button time="Sat Oct 31 14:38:30 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 14:38:32 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 14:38:36 GMT 2015">EnlargeImageSection()></command_run>
+<command_run time="Sat Oct 31 14:41:36 GMT 2015">EnlargeImageSection()></command_run>
+<menu_button time="Sat Oct 31 14:42:19 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 14:42:20 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 14:42:21 GMT 2015">EnlargeImageSection()></command_run>
+<menu_button time="Sat Oct 31 14:43:38 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 14:43:39 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 14:43:40 GMT 2015">EnlargeImageSection()></command_run>
+<menu_button time="Sat Oct 31 14:44:42 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 14:44:44 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 14:44:45 GMT 2015">EnlargeImageSection()></command_run>
+<menu_button time="Sat Oct 31 14:45:37 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 14:45:38 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 14:45:39 GMT 2015">EnlargeImageSection()></command_run>
+<menu_button time="Sat Oct 31 14:46:43 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 14:46:44 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 14:46:45 GMT 2015">EnlargeImageSection()></command_run>
+<menu_button time="Sat Oct 31 14:47:59 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 14:48:00 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 14:48:01 GMT 2015">EnlargeImageSection()></command_run>
+<menu_button time="Sat Oct 31 14:49:25 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 14:49:26 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 14:49:30 GMT 2015">EnlargeImageTopSection()></command_run>
+<menu_button time="Sat Oct 31 14:54:15 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 14:54:16 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 14:54:18 GMT 2015">EnlargeImageTopSection()></command_run>
+<menu_button time="Sat Oct 31 14:55:46 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 14:55:47 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 14:55:48 GMT 2015">EnlargeImageTopSection()></command_run>
+<menu_button time="Sat Oct 31 14:56:42 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 14:56:43 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 14:56:44 GMT 2015">EnlargeImageTopSection()></command_run>
+<menu_button time="Sat Oct 31 14:57:20 GMT 2015">Stop</menu_button>
+<menu_button time="Sat Oct 31 14:57:48 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 14:57:49 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 14:57:50 GMT 2015">EnlargeImageTopSection()></command_run>
+<menu_button time="Sat Oct 31 14:58:08 GMT 2015">Stop</menu_button>
+<menu_button time="Sat Oct 31 14:58:28 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 14:58:29 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 14:58:30 GMT 2015">EnlargeImageTopSection()></command_run>
+<menu_button time="Sat Oct 31 14:58:57 GMT 2015">Stop</menu_button>
+<menu_button time="Sat Oct 31 14:59:02 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 14:59:03 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 14:59:05 GMT 2015">EnlargeImageTopSection()></command_run>
+<menu_button time="Sat Oct 31 14:59:29 GMT 2015">Stop</menu_button>
+<menu_button time="Sat Oct 31 14:59:57 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 14:59:58 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 14:59:59 GMT 2015">EnlargeImageTopSection()></command_run>
+<menu_button time="Sat Oct 31 15:01:24 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 15:01:25 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 15:01:27 GMT 2015">EnlargeImageTopSection()></command_run>
+<menu_button time="Sat Oct 31 15:02:00 GMT 2015">Stop</menu_button>
+<menu_button time="Sat Oct 31 15:02:50 GMT 2015">Load Program</menu_button>
+<command_run time="Sat Oct 31 15:02:51 GMT 2015">EnlargeImageTopSection()></command_run>
+<menu_button time="Sat Oct 31 15:03:17 GMT 2015">Stop</menu_button>
+<menu_button time="Sat Oct 31 15:04:33 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 15:04:34 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 15:04:35 GMT 2015">EnlargeImageTopSection()></command_run>
+<menu_button time="Sat Oct 31 15:04:45 GMT 2015">Stop</menu_button>
+<menu_button time="Sat Oct 31 15:05:03 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 15:05:04 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 15:05:05 GMT 2015">EnlargeImageTopSection()></command_run>
+<menu_button time="Sat Oct 31 15:05:59 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 15:06:00 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 15:06:01 GMT 2015">EnlargeImageTopSection()></command_run>
+<menu_button time="Sat Oct 31 15:07:14 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 15:07:15 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 15:07:17 GMT 2015">EnlargeImageTopSection()></command_run>
+<menu_button time="Sat Oct 31 15:08:29 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 15:08:31 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 15:08:32 GMT 2015">EnlargeImageTopSection()></command_run>
+<menu_button time="Sat Oct 31 15:08:51 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 15:08:53 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 15:08:54 GMT 2015">EnlargeImageTopSection()></command_run>
+<menu_button time="Sat Oct 31 15:09:04 GMT 2015">Save Program</menu_button>
+<file_saved time="Sat Oct 31 15:09:04 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+<file_opened time="Sat Oct 31 15:09:25 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_opened>
+<menu_button time="Sat Oct 31 15:09:29 GMT 2015">Load Program</menu_button>
+<command_run time="Sat Oct 31 15:09:54 GMT 2015">EnlargeImageTopSection()></command_run>
+<menu_button time="Sat Oct 31 15:10:17 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 15:10:18 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 15:10:19 GMT 2015">EnlargeImageTopSection()></command_run>
+<menu_button time="Sat Oct 31 15:11:14 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 15:11:15 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 15:11:16 GMT 2015">EnlargeImageTopSection()></command_run>
+<menu_button time="Sat Oct 31 15:11:26 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 15:11:27 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 15:11:28 GMT 2015">EnlargeImageTopSection()></command_run>
+<menu_button time="Sat Oct 31 15:11:36 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 15:11:37 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 15:11:38 GMT 2015">EnlargeImageTopSection()></command_run>
+<menu_button time="Sat Oct 31 15:11:46 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 15:11:46 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 15:11:48 GMT 2015">EnlargeImageTopSection()></command_run>
+<menu_button time="Sat Oct 31 15:12:05 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 15:12:06 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 15:12:07 GMT 2015">EnlargeImageTopSection()></command_run>
+<menu_button time="Sat Oct 31 15:12:54 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 15:12:55 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 15:12:56 GMT 2015">EnlargeImageTopSection()></command_run>
+<menu_button time="Sat Oct 31 15:13:52 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 15:13:53 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 15:13:59 GMT 2015">EnlargeImageTopSection()></command_run>
+<menu_button time="Sat Oct 31 15:14:42 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 15:14:43 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 15:14:44 GMT 2015">EnlargeImageTopSection()></command_run>
+<menu_button time="Sat Oct 31 15:15:12 GMT 2015">Load Program</menu_button>
+<file_saved time="Sat Oct 31 15:15:13 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>
+<command_run time="Sat Oct 31 15:15:14 GMT 2015">EnlargeImageTopSection()></command_run>
+<menu_button time="Sat Oct 31 15:16:07 GMT 2015">Save Program</menu_button>
+<file_saved time="Sat Oct 31 15:16:07 GMT 2015">C:\Users\Alastair\Desktop\JES\Programs\manipulating images</file_saved>
+</file_created>

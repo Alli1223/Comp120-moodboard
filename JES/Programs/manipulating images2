@@ -1,0 +1,263 @@
+import time
+def pic():
+  picture = makePicture(pickAFile())
+  show(picture)
+  pixel=getPixel(picture,1,1)
+  print picture
+  print pixel
+  
+def sound():
+  myfile = pickAFile()
+  mysound = makeSound(myfile)
+  play(mysound)
+
+def mypic():
+  picture = makePicture(pickAFile())
+  explore(picture)
+
+def piccolor():
+  newcolor=pickAColor()
+  print newcolor
+  
+  
+def mypic3():
+  picture = makePicture(pickAFile())
+  setColor(getPixel(picture,10,50),red)
+  setColor(getPixel(picture,30,50),red)
+  setColor(getPixel(picture,50,50),red)
+  setColor(getPixel(picture,51,50),red)
+  setColor(getPixel(picture,52,50),red)
+  setColor(getPixel(picture,53,50),red)
+  repaint(picture)
+
+def pic5():
+  picture = makePicture(pickAFile())
+  show(picture)
+  clearRedOnHalf(picture)
+  #copyHalf(picture)
+  repaint(picture)
+  writePictureTo(picture,"X:\JES\images\mypic5.jpg")
+
+def decreaseRed(picture):
+ for p in getPixels(picture):
+   value=getRed(p)
+   setRed(p,value*2.5)
+ 
+def decreaseGreen(picture):
+ for p in getPixels(picture):
+   value=getGreen(p)
+   setGreen(p,value*2.5)
+
+def decreaseBlue(picture):
+ for p in getPixels(picture):
+   value=getBlue(p)
+   setBlue(p,value*1.25)
+   
+def decreaseRedHalf(picture):
+  pixels = getPixels(picture)
+  for index in range(0,len(pixels)/2):
+    pixel = pixels[index]
+    value = getRed(pixel)
+    setRed(pixel,value * 0.5)
+  
+
+def copyHalf(picture):
+  pixels = getPixels(picture)
+  for index in range(0,len(pixels)/2):
+    pixel1 = pixels[index]
+    color1 = getColor(pixel1)
+    pixel2 = pixels[index + len(pixels)/2]
+    setColor(pixel2,color1)
+    
+    
+def clearRedOnHalf(picture):                        #sidebar comment
+  allpixels = getPixels(picture)
+  for i in range(0, len(allpixels)/2):
+    pixel = allpixels[i]
+    setRed(pixel, 0)
+
+
+def makeSunset():
+  img = makePicture(pickAFile())
+  show(img)
+  for i in range(0,4):
+    for p in getPixels(img):
+      setBlue(p, getBlue(p) * 0.7)
+      setGreen(p, getGreen(p) * 0.7)
+      if i > 1:
+        setRed(p, getRed(p) * 0.45)
+    repaint(img)
+
+
+ 
+ 
+ 
+ 
+def turnRed():
+  lightred = makeColor(255,50,50)
+  file=pickAFile()
+  picture=makePicture(file)
+  for px in getPixels(picture):
+    color = getColor(px)
+    if distance(color,lightred)<110.0:
+      r=getRed(px)*0.4
+      b=getBlue(px)
+      g=getGreen(px)
+      setColor(px,makeColor(r,g,b))
+  show(picture)
+  return picture
+  
+def reducecolorinarea():
+  startX = 100
+  endX = requestNumber("enter the end X ammout of pixels in image: ")
+  startY = 0
+  endY = requestNumber("enter the end Y ammout of pixels in image: ")
+  lightred = red
+  file=pickAFile()
+  picture=makePicture(file)
+  for px in getPixels(picture):
+    x = getX(px)
+    y = getY(px)
+    if(startX <= x <= endX) and (startY <= y <=endY):
+  
+  
+      color = getColor(px)
+      if distance(color,lightred)<150.0:
+        r=getRed(px)/10
+        b=getBlue(px)*0.2
+        g=getGreen(px)*0.2
+        setColor(px,makeColor(r,g,b))
+  show(picture)
+  return picture
+
+
+
+
+
+
+def colourdistance():
+  
+  color1 = pickAColor()
+  color2 = pickAColor()
+  
+  red1 = color1.getRed()
+  red2 = color2.getRed()
+  green1 = color1.getGreen()
+  green2 = color2.getGreen()
+  blue1 = color1.getBlue()
+  blue2 = color2.getBlue()
+  
+  Distance = sqrt(pow(red1 - red2, 2) + pow(green1 - green2, 2) + pow(blue1 - blue2, 2))
+  print Distance
+
+def image1():
+  #picture = makePicture(pickAFile())
+  file=pickAFile()
+  picture=makePicture(file)
+  grayPosterize(picture)
+  #posterize(picture)
+  show(picture)
+
+def posterize(picture):
+#loop through the pixels
+  for p in getPixels(picture):
+#get the RGB values
+    red = getRed(p)
+    green = getGreen(p)
+    blue = getBlue(p)
+#check and set red values
+    if(red < 64):
+      setRed(p, 31)
+    if(red > 63 and red < 128):
+      setRed(p, 95)
+    if(red > 127 and red < 192):
+      setRed(p, 159)
+    if(red > 191 and red < 256):
+      setRed(p, 223)
+#check and set green values
+  if(green < 64):
+    setGreen(p, 31)
+  if(green > 63 and green < 128):
+    setGreen(p, 95)
+  if(green > 127 and green < 192):
+    setGreen(p, 159)
+  if(green > 191 and green < 256):
+    setGreen(p, 223)
+#check and set blue values
+  if(blue < 64):
+    setBlue(p, 31)
+  if(blue > 63 and blue < 128):
+    setBlue(p, 95)
+  if(blue > 127 and blue < 192):
+    setBlue(p, 159)
+  if(blue > 191 and blue < 256):
+    setBlue(p, 223)
+
+
+def grayPosterize(picture):
+  for p in getPixels(picture):
+    r = getRed(p)
+    g = getGreen(p)
+    b = getBlue(p)
+  luminance = (r+g+b)/3
+  if luminance < 64:
+    setColor(p,black)
+  if luminance >= 64:
+    setColor(p,white)
+  print luminance
+
+def edgedetection():
+  file=pickAFile()
+  picture=makePicture(file)
+  
+  for px in getPixels(picture):
+    x = getX(px)
+    y = getY(px)
+    if y < getHeight(picture)-1 and x < getWidth(picture)-1:
+      sum = getRed(px)+getGreen(px)+getBlue(px)
+      botrt = getPixel(picture,x+1,y+1)
+      sum2 = getRed(botrt)+getGreen(botrt)+getBlue(botrt)
+      diff = abs(sum2-sum)
+      newcolor = makeColor(diff,diff,diff)
+      setColor(px,newcolor)
+  show(picture)
+    
+def copyHorseFaceLarger():
+  file=pickAFile()
+  canvas = makeEmptyPicture(1300,1500)
+  src=makePicture(file)
+  
+  show(src)
+  
+  #src = makeEmptyPicture(1630,2000)
+  #show(canvas)
+  
+  sourceX = 1
+  for targetX in range(0,1000):
+    sourceY = 1
+    for targetY in range(0,1000):
+      srcpx = getPixel(src,int(sourceX),int(sourceY))
+      color = getColor(srcpx)
+      setColor(getPixel(canvas,targetX,targetY), color)
+      sourceY = sourceY + 0.8
+    sourceX = sourceX + 0.8
+  
+  repaint(canvas)
+  
+  return canvas
+  
+def scaleUp():   
+  file = pickAFile()
+  source = makePicture(file)
+  target = makeEmptyPicture(getWidth(source)*2, getHeight(source)*2)
+  sourceY = 0
+  for targetY in range (0, getHeight(source)*2):
+    sourceX = 0
+    for targetX in range (0, getWidth(source)*2):
+        color = getColor(getPixel(source, int(sourceX), int(sourceY)))
+        setColor(getPixel(target, targetX, targetY), color)
+        sourceX = sourceX + 0.5
+    sourceY = sourceY + 0.5
+    if targetY % 20 == 0:
+        repaint(target)  
+
