@@ -12,7 +12,6 @@ def start():
   #if the user enters 2(or anything else) zoom into the bottom part of the image
   if keypress == 1:
     EnlargeImageTopSection()
-    EnlargeImageTop
   elif keypress == 2:
     EnlargeImageBottomSection()
 
@@ -46,16 +45,9 @@ def EnlargeImageTopSection():
       sourceY = sourceY + 0.6
     sourceX = sourceX + 0.6
   
-def paintcanvasblack(src):
-  #paint the canvas black
-  pixels = getPixels(src)
-  for i in range(0*(len(pixels)/4),len(pixels)):
-    px = pixels[i]
-    setColor(px,black)
-  repaint(src)
   
   #load the biodome image and display it on the canvas
-  pic2=makePicture("G:\Comp120\JES\Ship-image-structure\biodome.jpg")
+  pic2=makePicture("G:\Comp120\JES\Ship-image-structure\Biodome.jpg")
   for pixel in pic2.getPixels():
     x = getX(pixel)
     y = getY(pixel)
@@ -69,14 +61,18 @@ def paintcanvasblack(src):
   #if the variable is equal to 2 paint the canvas black then load image from file and paint to canvas
   #if the variable is equal to 3 paint the canvas black then load image from file and paint to canvas
   #if the variable is equal to 4 paint the canvas black then load image from file and paint to canvas
+def paintblack(canvas2):
+  pixels = getPixels(canvas2)
+  for i in range(0*(len(pixels)/4),len(pixels)):
+    px = pixels[i]
+    setColor(px,black)
+  repaint(canvas2)
+  
+  
   keypress2 = requestNumber("Press 1-4 for ship images: ")
   if keypress2 == 1:
   
-    pixels = getPixels(canvas2)
-    for i in range(0*(len(pixels)/4),len(pixels)):
-      px = pixels[i]
-      setColor(px,black)
-    repaint(canvas2)
+    paintblack(canvas2)
   
     pic2=makePicture(pickAFile())
     for pixel in pic2.getPixels():
@@ -194,6 +190,7 @@ def EnlargeImageBottomSection():
     repaint(canvas2)
   
   
+  
   elif keypress2 == 2:
   
     pixels = getPixels(canvas2)
@@ -226,6 +223,13 @@ def EnlargeImageBottomSection():
       color = getColor(pixel)
       target = getPixelAt(canvas2, x, y)
       setColor(target, color)
+    repaint(canvas2)
+    
+    #reduceRed and increase red
+    for p in getPixels(pic2):
+      value = getRed(p)
+      setRed(p,value /4)
+    canvas2 = pic2
     repaint(canvas2)
     
   elif keypress2 == 4:
